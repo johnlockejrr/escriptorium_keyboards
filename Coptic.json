@@ -1,0 +1,622 @@
+{
+  "author": "Keyboard Builder for eScriptorium v0.1",
+  "characters": [
+    {
+      "character": "Ⲁ",
+      "column": 0,
+      "row": 0
+    },
+    {
+      "character": "ⲁ",
+      "column": 1,
+      "row": 0
+    },
+    {
+      "character": "Ⲃ",
+      "column": 2,
+      "row": 0
+    },
+    {
+      "character": "ⲃ",
+      "column": 3,
+      "row": 0
+    },
+    {
+      "character": "Ⲅ",
+      "column": 4,
+      "row": 0
+    },
+    {
+      "character": "ⲅ",
+      "column": 5,
+      "row": 0
+    },
+    {
+      "character": "Ⲇ",
+      "column": 6,
+      "row": 0
+    },
+    {
+      "character": "ⲇ",
+      "column": 7,
+      "row": 0
+    },
+    {
+      "character": "Ⲉ",
+      "column": 8,
+      "row": 0
+    },
+    {
+      "character": "ⲉ",
+      "column": 9,
+      "row": 0
+    },
+    {
+      "character": "Ⲋ",
+      "column": 0,
+      "row": 1
+    },
+    {
+      "character": "ⲋ",
+      "column": 1,
+      "row": 1
+    },
+    {
+      "character": "Ⲍ",
+      "column": 2,
+      "row": 1
+    },
+    {
+      "character": "ⲍ",
+      "column": 3,
+      "row": 1
+    },
+    {
+      "character": "Ⲏ",
+      "column": 4,
+      "row": 1
+    },
+    {
+      "character": "ⲏ",
+      "column": 5,
+      "row": 1
+    },
+    {
+      "character": "Ⲑ",
+      "column": 6,
+      "row": 1
+    },
+    {
+      "character": "ⲑ",
+      "column": 7,
+      "row": 1
+    },
+    {
+      "character": "Ⲓ",
+      "column": 8,
+      "row": 1
+    },
+    {
+      "character": "ⲓ",
+      "column": 9,
+      "row": 1
+    },
+    {
+      "character": "Ⲕ",
+      "column": 0,
+      "row": 2
+    },
+    {
+      "character": "ⲕ",
+      "column": 1,
+      "row": 2
+    },
+    {
+      "character": "Ⲗ",
+      "column": 2,
+      "row": 2
+    },
+    {
+      "character": "ⲗ",
+      "column": 3,
+      "row": 2
+    },
+    {
+      "character": "Ⲙ",
+      "column": 4,
+      "row": 2
+    },
+    {
+      "character": "ⲙ",
+      "column": 5,
+      "row": 2
+    },
+    {
+      "character": "Ⲛ",
+      "column": 6,
+      "row": 2
+    },
+    {
+      "character": "ⲛ",
+      "column": 7,
+      "row": 2
+    },
+    {
+      "character": "Ⲝ",
+      "column": 8,
+      "row": 2
+    },
+    {
+      "character": "ⲝ",
+      "column": 9,
+      "row": 2
+    },
+    {
+      "character": "Ⲟ",
+      "column": 0,
+      "row": 3
+    },
+    {
+      "character": "ⲟ",
+      "column": 1,
+      "row": 3
+    },
+    {
+      "character": "Ⲡ",
+      "column": 2,
+      "row": 3
+    },
+    {
+      "character": "ⲡ",
+      "column": 3,
+      "row": 3
+    },
+    {
+      "character": "Ⲣ",
+      "column": 4,
+      "row": 3
+    },
+    {
+      "character": "ⲣ",
+      "column": 5,
+      "row": 3
+    },
+    {
+      "character": "Ⲥ",
+      "column": 6,
+      "row": 3
+    },
+    {
+      "character": "ⲥ",
+      "column": 7,
+      "row": 3
+    },
+    {
+      "character": "Ⲧ",
+      "column": 8,
+      "row": 3
+    },
+    {
+      "character": "ⲧ",
+      "column": 9,
+      "row": 3
+    },
+    {
+      "character": "Ⲩ",
+      "column": 0,
+      "row": 4
+    },
+    {
+      "character": "ⲩ",
+      "column": 1,
+      "row": 4
+    },
+    {
+      "character": "Ⲫ",
+      "column": 2,
+      "row": 4
+    },
+    {
+      "character": "ⲫ",
+      "column": 3,
+      "row": 4
+    },
+    {
+      "character": "Ⲭ",
+      "column": 4,
+      "row": 4
+    },
+    {
+      "character": "ⲭ",
+      "column": 5,
+      "row": 4
+    },
+    {
+      "character": "Ⲯ",
+      "column": 6,
+      "row": 4
+    },
+    {
+      "character": "ⲯ",
+      "column": 7,
+      "row": 4
+    },
+    {
+      "character": "Ⲱ",
+      "column": 8,
+      "row": 4
+    },
+    {
+      "character": "ⲱ",
+      "column": 9,
+      "row": 4
+    },
+    {
+      "character": "Ⲳ",
+      "column": 0,
+      "row": 5
+    },
+    {
+      "character": "ⲳ",
+      "column": 1,
+      "row": 5
+    },
+    {
+      "character": "Ⲵ",
+      "column": 2,
+      "row": 5
+    },
+    {
+      "character": "ⲵ",
+      "column": 3,
+      "row": 5
+    },
+    {
+      "character": "Ⲷ",
+      "column": 4,
+      "row": 5
+    },
+    {
+      "character": "ⲷ",
+      "column": 5,
+      "row": 5
+    },
+    {
+      "character": "Ⲹ",
+      "column": 6,
+      "row": 5
+    },
+    {
+      "character": "ⲹ",
+      "column": 7,
+      "row": 5
+    },
+    {
+      "character": "Ⲻ",
+      "column": 8,
+      "row": 5
+    },
+    {
+      "character": "ⲻ",
+      "column": 9,
+      "row": 5
+    },
+    {
+      "character": "Ⲽ",
+      "column": 0,
+      "row": 6
+    },
+    {
+      "character": "ⲽ",
+      "column": 1,
+      "row": 6
+    },
+    {
+      "character": "Ⲿ",
+      "column": 2,
+      "row": 6
+    },
+    {
+      "character": "ⲿ",
+      "column": 3,
+      "row": 6
+    },
+    {
+      "character": "Ⳁ",
+      "column": 4,
+      "row": 6
+    },
+    {
+      "character": "ⳁ",
+      "column": 5,
+      "row": 6
+    },
+    {
+      "character": "Ⳃ",
+      "column": 6,
+      "row": 6
+    },
+    {
+      "character": "ⳃ",
+      "column": 7,
+      "row": 6
+    },
+    {
+      "character": "Ⳅ",
+      "column": 8,
+      "row": 6
+    },
+    {
+      "character": "ⳅ",
+      "column": 9,
+      "row": 6
+    },
+    {
+      "character": "Ⳇ",
+      "column": 0,
+      "row": 7
+    },
+    {
+      "character": "ⳇ",
+      "column": 1,
+      "row": 7
+    },
+    {
+      "character": "Ⳉ",
+      "column": 2,
+      "row": 7
+    },
+    {
+      "character": "ⳉ",
+      "column": 3,
+      "row": 7
+    },
+    {
+      "character": "Ⳋ",
+      "column": 4,
+      "row": 7
+    },
+    {
+      "character": "ⳋ",
+      "column": 5,
+      "row": 7
+    },
+    {
+      "character": "Ⳍ",
+      "column": 6,
+      "row": 7
+    },
+    {
+      "character": "ⳍ",
+      "column": 7,
+      "row": 7
+    },
+    {
+      "character": "Ⳏ",
+      "column": 8,
+      "row": 7
+    },
+    {
+      "character": "ⳏ",
+      "column": 9,
+      "row": 7
+    },
+    {
+      "character": "Ⳑ",
+      "column": 0,
+      "row": 8
+    },
+    {
+      "character": "ⳑ",
+      "column": 1,
+      "row": 8
+    },
+    {
+      "character": "Ⳓ",
+      "column": 2,
+      "row": 8
+    },
+    {
+      "character": "ⳓ",
+      "column": 3,
+      "row": 8
+    },
+    {
+      "character": "Ⳕ",
+      "column": 4,
+      "row": 8
+    },
+    {
+      "character": "ⳕ",
+      "column": 5,
+      "row": 8
+    },
+    {
+      "character": "Ⳗ",
+      "column": 6,
+      "row": 8
+    },
+    {
+      "character": "ⳗ",
+      "column": 7,
+      "row": 8
+    },
+    {
+      "character": "Ⳙ",
+      "column": 8,
+      "row": 8
+    },
+    {
+      "character": "ⳙ",
+      "column": 9,
+      "row": 8
+    },
+    {
+      "character": "Ⳛ",
+      "column": 0,
+      "row": 9
+    },
+    {
+      "character": "ⳛ",
+      "column": 1,
+      "row": 9
+    },
+    {
+      "character": "Ⳝ",
+      "column": 2,
+      "row": 9
+    },
+    {
+      "character": "ⳝ",
+      "column": 3,
+      "row": 9
+    },
+    {
+      "character": "Ⳟ",
+      "column": 4,
+      "row": 9
+    },
+    {
+      "character": "ⳟ",
+      "column": 5,
+      "row": 9
+    },
+    {
+      "character": "Ⳡ",
+      "column": 6,
+      "row": 9
+    },
+    {
+      "character": "ⳡ",
+      "column": 7,
+      "row": 9
+    },
+    {
+      "character": "Ⳣ",
+      "column": 8,
+      "row": 9
+    },
+    {
+      "character": "ⳣ",
+      "column": 9,
+      "row": 9
+    },
+    {
+      "character": "ⳤ",
+      "column": 0,
+      "row": 10
+    },
+    {
+      "character": "⳥",
+      "column": 1,
+      "row": 10
+    },
+    {
+      "character": "⳦",
+      "column": 2,
+      "row": 10
+    },
+    {
+      "character": "⳧",
+      "column": 3,
+      "row": 10
+    },
+    {
+      "character": "⳨",
+      "column": 4,
+      "row": 10
+    },
+    {
+      "character": "⳩",
+      "column": 5,
+      "row": 10
+    },
+    {
+      "character": "⳪",
+      "column": 6,
+      "row": 10
+    },
+    {
+      "character": "Ⳬ",
+      "column": 7,
+      "row": 10
+    },
+    {
+      "character": "ⳬ",
+      "column": 8,
+      "row": 10
+    },
+    {
+      "character": "Ⳮ",
+      "column": 9,
+      "row": 10
+    },
+    {
+      "character": "ⳮ",
+      "column": 0,
+      "row": 11
+    },
+    {
+      "character": "⳯",
+      "column": 1,
+      "row": 11
+    },
+    {
+      "character": "⳰",
+      "column": 2,
+      "row": 11
+    },
+    {
+      "character": "⳱",
+      "column": 3,
+      "row": 11
+    },
+    {
+      "character": "Ⳳ",
+      "column": 4,
+      "row": 11
+    },
+    {
+      "character": "ⳳ",
+      "column": 5,
+      "row": 11
+    },
+    {
+      "character": "⳹",
+      "column": 6,
+      "row": 11
+    },
+    {
+      "character": "⳺",
+      "column": 7,
+      "row": 11
+    },
+    {
+      "character": "⳻",
+      "column": 8,
+      "row": 11
+    },
+    {
+      "character": "⳼",
+      "column": 9,
+      "row": 11
+    },
+    {
+      "character": "⳽",
+      "column": 0,
+      "row": 12
+    },
+    {
+      "character": "⳾",
+      "column": 1,
+      "row": 12
+    },
+    {
+      "character": "⳿",
+      "column": 2,
+      "row": 12
+    }
+  ],
+  "name": "Coptic",
+  "version": "0.1"
+}

@@ -1,0 +1,152 @@
+{
+  "author": "Keyboard Builder for eScriptorium v0.1",
+  "characters": [
+    {
+      "character": "𐤀",
+      "column": 0,
+      "row": 0
+    },
+    {
+      "character": "𐤁",
+      "column": 1,
+      "row": 0
+    },
+    {
+      "character": "𐤂",
+      "column": 2,
+      "row": 0
+    },
+    {
+      "character": "𐤃",
+      "column": 3,
+      "row": 0
+    },
+    {
+      "character": "𐤄",
+      "column": 4,
+      "row": 0
+    },
+    {
+      "character": "𐤅",
+      "column": 5,
+      "row": 0
+    },
+    {
+      "character": "𐤆",
+      "column": 6,
+      "row": 0
+    },
+    {
+      "character": "𐤇",
+      "column": 7,
+      "row": 0
+    },
+    {
+      "character": "𐤈",
+      "column": 8,
+      "row": 0
+    },
+    {
+      "character": "𐤉",
+      "column": 9,
+      "row": 0
+    },
+    {
+      "character": "𐤊",
+      "column": 0,
+      "row": 1
+    },
+    {
+      "character": "𐤋",
+      "column": 1,
+      "row": 1
+    },
+    {
+      "character": "𐤌",
+      "column": 2,
+      "row": 1
+    },
+    {
+      "character": "𐤍",
+      "column": 3,
+      "row": 1
+    },
+    {
+      "character": "𐤎",
+      "column": 4,
+      "row": 1
+    },
+    {
+      "character": "𐤏",
+      "column": 5,
+      "row": 1
+    },
+    {
+      "character": "𐤐",
+      "column": 6,
+      "row": 1
+    },
+    {
+      "character": "𐤑",
+      "column": 7,
+      "row": 1
+    },
+    {
+      "character": "𐤒",
+      "column": 8,
+      "row": 1
+    },
+    {
+      "character": "𐤓",
+      "column": 9,
+      "row": 1
+    },
+    {
+      "character": "𐤔",
+      "column": 0,
+      "row": 2
+    },
+    {
+      "character": "𐤕",
+      "column": 1,
+      "row": 2
+    },
+    {
+      "character": "𐤖",
+      "column": 2,
+      "row": 2
+    },
+    {
+      "character": "𐤗",
+      "column": 3,
+      "row": 2
+    },
+    {
+      "character": "𐤘",
+      "column": 4,
+      "row": 2
+    },
+    {
+      "character": "𐤙",
+      "column": 5,
+      "row": 2
+    },
+    {
+      "character": "𐤚",
+      "column": 6,
+      "row": 2
+    },
+    {
+      "character": "𐤛",
+      "column": 7,
+      "row": 2
+    },
+    {
+      "character": "𐤟",
+      "column": 8,
+      "row": 2
+    }
+  ],
+  "name": "Phoenician",
+  "version": "0.1"
+}

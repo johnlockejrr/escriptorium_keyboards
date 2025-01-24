@@ -1,0 +1,317 @@
+{
+  "author": "Keyboard Builder for eScriptorium v0.1",
+  "characters": [
+    {
+      "character": "ࠀ",
+      "column": 0,
+      "row": 0
+    },
+    {
+      "character": "ࠁ",
+      "column": 1,
+      "row": 0
+    },
+    {
+      "character": "ࠂ",
+      "column": 2,
+      "row": 0
+    },
+    {
+      "character": "ࠃ",
+      "column": 3,
+      "row": 0
+    },
+    {
+      "character": "ࠄ",
+      "column": 4,
+      "row": 0
+    },
+    {
+      "character": "ࠅ",
+      "column": 5,
+      "row": 0
+    },
+    {
+      "character": "ࠆ",
+      "column": 6,
+      "row": 0
+    },
+    {
+      "character": "ࠇ",
+      "column": 7,
+      "row": 0
+    },
+    {
+      "character": "ࠈ",
+      "column": 8,
+      "row": 0
+    },
+    {
+      "character": "ࠉ",
+      "column": 9,
+      "row": 0
+    },
+    {
+      "character": "ࠊ",
+      "column": 0,
+      "row": 1
+    },
+    {
+      "character": "ࠋ",
+      "column": 1,
+      "row": 1
+    },
+    {
+      "character": "ࠌ",
+      "column": 2,
+      "row": 1
+    },
+    {
+      "character": "ࠍ",
+      "column": 3,
+      "row": 1
+    },
+    {
+      "character": "ࠎ",
+      "column": 4,
+      "row": 1
+    },
+    {
+      "character": "ࠏ",
+      "column": 5,
+      "row": 1
+    },
+    {
+      "character": "ࠐ",
+      "column": 6,
+      "row": 1
+    },
+    {
+      "character": "ࠑ",
+      "column": 7,
+      "row": 1
+    },
+    {
+      "character": "ࠒ",
+      "column": 8,
+      "row": 1
+    },
+    {
+      "character": "ࠓ",
+      "column": 9,
+      "row": 1
+    },
+    {
+      "character": "ࠔ",
+      "column": 0,
+      "row": 2
+    },
+    {
+      "character": "ࠕ",
+      "column": 1,
+      "row": 2
+    },
+    {
+      "character": "ࠖ",
+      "column": 2,
+      "row": 2
+    },
+    {
+      "character": "ࠗ",
+      "column": 3,
+      "row": 2
+    },
+    {
+      "character": "࠘",
+      "column": 4,
+      "row": 2
+    },
+    {
+      "character": "࠙",
+      "column": 5,
+      "row": 2
+    },
+    {
+      "character": "ࠚ",
+      "column": 6,
+      "row": 2
+    },
+    {
+      "character": "ࠛ",
+      "column": 7,
+      "row": 2
+    },
+    {
+      "character": "ࠜ",
+      "column": 8,
+      "row": 2
+    },
+    {
+      "character": "ࠝ",
+      "column": 9,
+      "row": 2
+    },
+    {
+      "character": "ࠞ",
+      "column": 0,
+      "row": 3
+    },
+    {
+      "character": "ࠟ",
+      "column": 1,
+      "row": 3
+    },
+    {
+      "character": "ࠠ",
+      "column": 2,
+      "row": 3
+    },
+    {
+      "character": "ࠡ",
+      "column": 3,
+      "row": 3
+    },
+    {
+      "character": "ࠢ",
+      "column": 4,
+      "row": 3
+    },
+    {
+      "character": "ࠣ",
+      "column": 5,
+      "row": 3
+    },
+    {
+      "character": "ࠤ",
+      "column": 6,
+      "row": 3
+    },
+    {
+      "character": "ࠥ",
+      "column": 7,
+      "row": 3
+    },
+    {
+      "character": "ࠦ",
+      "column": 8,
+      "row": 3
+    },
+    {
+      "character": "ࠧ",
+      "column": 9,
+      "row": 3
+    },
+    {
+      "character": "ࠨ",
+      "column": 0,
+      "row": 4
+    },
+    {
+      "character": "ࠩ",
+      "column": 1,
+      "row": 4
+    },
+    {
+      "character": "ࠪ",
+      "column": 2,
+      "row": 4
+    },
+    {
+      "character": "ࠫ",
+      "column": 3,
+      "row": 4
+    },
+    {
+      "character": "ࠬ",
+      "column": 4,
+      "row": 4
+    },
+    {
+      "character": "࠭",
+      "column": 5,
+      "row": 4
+    },
+    {
+      "character": "࠰",
+      "column": 6,
+      "row": 4
+    },
+    {
+      "character": "࠱",
+      "column": 7,
+      "row": 4
+    },
+    {
+      "character": "࠲",
+      "column": 8,
+      "row": 4
+    },
+    {
+      "character": "࠳",
+      "column": 9,
+      "row": 4
+    },
+    {
+      "character": "࠴",
+      "column": 0,
+      "row": 5
+    },
+    {
+      "character": "࠵",
+      "column": 1,
+      "row": 5
+    },
+    {
+      "character": "࠶",
+      "column": 2,
+      "row": 5
+    },
+    {
+      "character": "࠷",
+      "column": 3,
+      "row": 5
+    },
+    {
+      "character": "࠸",
+      "column": 4,
+      "row": 5
+    },
+    {
+      "character": "࠹",
+      "column": 5,
+      "row": 5
+    },
+    {
+      "character": "࠺",
+      "column": 6,
+      "row": 5
+    },
+    {
+      "character": "࠻",
+      "column": 7,
+      "row": 5
+    },
+    {
+      "character": "࠼",
+      "column": 8,
+      "row": 5
+    },
+    {
+      "character": "࠽",
+      "column": 9,
+      "row": 5
+    },
+    {
+      "character": "࠾",
+      "column": 0,
+      "row": 6
+    },
+    {
+      "character": "⸱",
+      "column": 1,
+      "row": 6
+    }
+  ],
+  "name": "Samaritan",
+  "version": "0.1"
+}

@@ -1,0 +1,167 @@
+{
+  "author": "Keyboard Builder for eScriptorium v0.1",
+  "characters": [
+    {
+      "character": "𐪀",
+      "column": 0,
+      "row": 0
+    },
+    {
+      "character": "𐪁",
+      "column": 1,
+      "row": 0
+    },
+    {
+      "character": "𐪂",
+      "column": 2,
+      "row": 0
+    },
+    {
+      "character": "𐪃",
+      "column": 3,
+      "row": 0
+    },
+    {
+      "character": "𐪄",
+      "column": 4,
+      "row": 0
+    },
+    {
+      "character": "𐪅",
+      "column": 5,
+      "row": 0
+    },
+    {
+      "character": "𐪆",
+      "column": 6,
+      "row": 0
+    },
+    {
+      "character": "𐪇",
+      "column": 7,
+      "row": 0
+    },
+    {
+      "character": "𐪈",
+      "column": 8,
+      "row": 0
+    },
+    {
+      "character": "𐪉",
+      "column": 9,
+      "row": 0
+    },
+    {
+      "character": "𐪊",
+      "column": 0,
+      "row": 1
+    },
+    {
+      "character": "𐪋",
+      "column": 1,
+      "row": 1
+    },
+    {
+      "character": "𐪌",
+      "column": 2,
+      "row": 1
+    },
+    {
+      "character": "𐪍",
+      "column": 3,
+      "row": 1
+    },
+    {
+      "character": "𐪎",
+      "column": 4,
+      "row": 1
+    },
+    {
+      "character": "𐪏",
+      "column": 5,
+      "row": 1
+    },
+    {
+      "character": "𐪐",
+      "column": 6,
+      "row": 1
+    },
+    {
+      "character": "𐪑",
+      "column": 7,
+      "row": 1
+    },
+    {
+      "character": "𐪒",
+      "column": 8,
+      "row": 1
+    },
+    {
+      "character": "𐪓",
+      "column": 9,
+      "row": 1
+    },
+    {
+      "character": "𐪔",
+      "column": 0,
+      "row": 2
+    },
+    {
+      "character": "𐪕",
+      "column": 1,
+      "row": 2
+    },
+    {
+      "character": "𐪖",
+      "column": 2,
+      "row": 2
+    },
+    {
+      "character": "𐪗",
+      "column": 3,
+      "row": 2
+    },
+    {
+      "character": "𐪘",
+      "column": 4,
+      "row": 2
+    },
+    {
+      "character": "𐪙",
+      "column": 5,
+      "row": 2
+    },
+    {
+      "character": "𐪚",
+      "column": 6,
+      "row": 2
+    },
+    {
+      "character": "𐪛",
+      "column": 7,
+      "row": 2
+    },
+    {
+      "character": "𐪜",
+      "column": 8,
+      "row": 2
+    },
+    {
+      "character": "𐪝",
+      "column": 9,
+      "row": 2
+    },
+    {
+      "character": "𐪞",
+      "column": 0,
+      "row": 3
+    },
+    {
+      "character": "𐪟",
+      "column": 1,
+      "row": 3
+    }
+  ],
+  "name": "Old_North_Arabian",
+  "version": "0.1"
+}

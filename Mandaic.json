@@ -1,0 +1,152 @@
+{
+  "author": "Keyboard Builder for eScriptorium v0.1",
+  "characters": [
+    {
+      "character": "ࡀ",
+      "column": 0,
+      "row": 0
+    },
+    {
+      "character": "ࡁ",
+      "column": 1,
+      "row": 0
+    },
+    {
+      "character": "ࡂ",
+      "column": 2,
+      "row": 0
+    },
+    {
+      "character": "ࡃ",
+      "column": 3,
+      "row": 0
+    },
+    {
+      "character": "ࡄ",
+      "column": 4,
+      "row": 0
+    },
+    {
+      "character": "ࡅ",
+      "column": 5,
+      "row": 0
+    },
+    {
+      "character": "ࡆ",
+      "column": 6,
+      "row": 0
+    },
+    {
+      "character": "ࡇ",
+      "column": 7,
+      "row": 0
+    },
+    {
+      "character": "ࡈ",
+      "column": 8,
+      "row": 0
+    },
+    {
+      "character": "ࡉ",
+      "column": 9,
+      "row": 0
+    },
+    {
+      "character": "ࡊ",
+      "column": 0,
+      "row": 1
+    },
+    {
+      "character": "ࡋ",
+      "column": 1,
+      "row": 1
+    },
+    {
+      "character": "ࡌ",
+      "column": 2,
+      "row": 1
+    },
+    {
+      "character": "ࡍ",
+      "column": 3,
+      "row": 1
+    },
+    {
+      "character": "ࡎ",
+      "column": 4,
+      "row": 1
+    },
+    {
+      "character": "ࡏ",
+      "column": 5,
+      "row": 1
+    },
+    {
+      "character": "ࡐ",
+      "column": 6,
+      "row": 1
+    },
+    {
+      "character": "ࡑ",
+      "column": 7,
+      "row": 1
+    },
+    {
+      "character": "ࡒ",
+      "column": 8,
+      "row": 1
+    },
+    {
+      "character": "ࡓ",
+      "column": 9,
+      "row": 1
+    },
+    {
+      "character": "ࡔ",
+      "column": 0,
+      "row": 2
+    },
+    {
+      "character": "ࡕ",
+      "column": 1,
+      "row": 2
+    },
+    {
+      "character": "ࡖ",
+      "column": 2,
+      "row": 2
+    },
+    {
+      "character": "ࡗ",
+      "column": 3,
+      "row": 2
+    },
+    {
+      "character": "ࡘ",
+      "column": 4,
+      "row": 2
+    },
+    {
+      "character": "࡙",
+      "column": 5,
+      "row": 2
+    },
+    {
+      "character": "࡚",
+      "column": 6,
+      "row": 2
+    },
+    {
+      "character": "࡛",
+      "column": 7,
+      "row": 2
+    },
+    {
+      "character": "࡞",
+      "column": 8,
+      "row": 2
+    }
+  ],
+  "name": "Mandaic",
+  "version": "0.1"
+}
